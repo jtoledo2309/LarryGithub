@@ -2,4 +2,4 @@
 
 Esta saga de libros cuentan la historia de Larry PLotter un hacher excepcional.
 
-**Juan Toledo**, git fan
+**Juan Toledo**, git and Larry Plotter Fan
