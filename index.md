@@ -1,9 +1,9 @@
-# Larry Plotter
+# Harry Potter
 
-* Larry Plotter y el bucle filosofal
-* Larry PLotter y la clave secreta
-* Larry Plotter y el prisionero de Firewall
-* Larry Plotter y el malware de fuego
-* Larry Plotter y la orden de Unix
-* Larry Plotter y el misterio del Hacker
-* Larry Plotter y los comits de la muerte
+* Harry Potter y el bucle filosofal
+* Harry Potter y la clave secreta
+* Harry Potter y el prisionero de Firewall
+* Harry Potter y el malware de fuego
+* Harry Potter y la orden de Unix
+* Harry Potter y el misterio del Hacker
+* Harry Potter y los comits de la muerte
